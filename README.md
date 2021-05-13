@@ -1,0 +1,2 @@
+# STM32_USART_rev
+STM32F103C8通过串口IDLE空闲中断接收不定长数据帧
